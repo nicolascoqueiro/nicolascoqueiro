@@ -1,11 +1,11 @@
 ### Olá 👋
 
--My name is Nicolas, I'm doing my first degree in Data Science & Machine Learning.
-- I am looking for an internship in my field of study.
+-Meu nome é Nicolas e estou cursando engenharia de software pela UnB.
 
-<div> 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
+### Hello 👋
+-My name is Nicolas and i'm doing my first degree in software engineer.
+
+
   
   ###
   
