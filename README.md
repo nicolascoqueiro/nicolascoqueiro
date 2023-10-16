@@ -1,10 +1,10 @@
 ### Olá 👋
 
--Meu nome é Nicolas e estou cursando engenharia de software pela UnB.
+-Meu nome é Nicolas e neste perfil posto alguns projetos pessoais que podem interessar algumas pessoas.
 
 ### Hello 👋
--My name is Nicolas and i'm doing my first degree in software engineer.
 
+-My name is Nicolas and on this profile I post some personal projects that may interest some people
 
   
   ###
