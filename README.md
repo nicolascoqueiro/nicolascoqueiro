@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
-- 🌱 I’m currently learning **Oracle**
+- 🌱 I’m currently learning Oracle SQL
 
 - 📫 How to reach me **nicolascafreitas@gmail.com**
 
